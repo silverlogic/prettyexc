@@ -20,13 +20,13 @@ def get_readme():
 
 
 setup(
-    name='prettyexc',
+    name='tsl-prettyexc',
     version=get_version(),
     description='Make any exception human readable in easy way.',
     long_description=get_readme(),
-    author='Jeong YunWon',
-    author_email='jeong+prettyexc@youknowone.org',
-    url='https://github.com/youknowone/prettyexc',
+    author='Ryan Pineo',
+    author_email='ry@tsl.io',
+    url='https://github.com/silverlogic/prettyexc',
     packages=(
         'prettyexc',
     ),

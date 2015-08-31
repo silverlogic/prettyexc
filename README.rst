@@ -5,7 +5,7 @@ prettyexc provides common exception representation to make human-readable except
 
 You can install the package from PyPI
 
-    $ pip install prettyexc
+    $ pip install tsl-prettyexc
 
 
 Example

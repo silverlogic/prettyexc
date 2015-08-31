@@ -1,6 +1,9 @@
 Pretty-Exception for Python
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+.. image:: https://travis-ci.org/silverlogic/prettyexc.svg?branch=master
+    :target: https://travis-ci.org/silverlogic/prettyexc
+
 prettyexc provides common exception representation to make human-readable exception in easy way.
 
 You can install the package from PyPI
